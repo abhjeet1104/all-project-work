@@ -31,7 +31,7 @@
 | 25  | [Sticky Navbar](https://github.com/bradtraversy/50projects50days/tree/master/sticky-navigation)                                 | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
 | 26  | [Double Vertical Slider](https://github.com/bradtraversy/50projects50days/tree/master/double-vertical-slider)               | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |
 | 27  | [Toast Notification](https://github.com/bradtraversy/50projects50days/tree/master/toast-notification)                       | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
-| 28  | [Github Profiles](https://github.com/bradtraversy/50projects50days/tree/master/github-profiles)                             | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
+| 28  | [Github Profiles](https://github.com/abhjeet1104/all-project-work/tree/main/github-profiles)                             | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
 | 29  | [Double Click Heart](https://github.com/bradtraversy/50projects50days/tree/master/double-click-heart)                       | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 | 30  | [Auto Text Effect](https://github.com/bradtraversy/50projects50days/tree/master/auto-text-effect)                           | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
 | 31  | [Password Generator](https://github.com/bradtraversy/50projects50days/tree/master/password-generator)                       | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
